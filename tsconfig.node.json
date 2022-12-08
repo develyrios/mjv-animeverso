@@ -1,3 +1,4 @@
+// @@todo corrigir erro no json
 {
   "compilerOptions": {
     "composite": true,
